@@ -1,0 +1,67 @@
+
+
+body{
+
+    height: 2000px;
+}
+
+.home{
+
+background-image: url("../images/portrait-man.jpg");
+background-size: cover;
+background-position: center center;
+
+
+
+}
+
+
+.navbar-brand{
+    color: red ;
+    font-weight: 900;
+    
+    }
+    
+.icon{
+    transition: all 0.8s;
+}
+
+.icon:hover{
+
+background-color: blue;
+cursor: pointer;
+border-color: rgb(109, 1, 119) !important;
+}
+
+.about{
+    background-image: url("../images/istockphoto-924423306-612x612.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-color: black;
+}
+.myh2{
+  
+    font-size: 80px;
+    color: #ccc;
+    letter-spacing: 20px;
+    
+}
+
+h3{
+    color:#f5d;
+    letter-spacing: 5px;
+}
+
+.row{
+    margin-top: 20%;
+}
+
+.lead{
+    padding-top: 10px;
+}
+
+.services{
+    background-image: url("../images/black.jpg");
+    background-size: cover;
+    background-position: center center;
+}
